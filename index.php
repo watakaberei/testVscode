@@ -10,6 +10,6 @@
     <title>website</title>
 </head>
 <body>
-    <h1>Githubにpush</h1>
+    <h1>Githubにpush 2回目のプッシュ</h1>
 </body>
 </html>
